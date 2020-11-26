@@ -1,0 +1,3 @@
+# Use %player% for the player name and %message% for the message
+# For colors use the color codes with §
+format: "<%player%> %message%"
